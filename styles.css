@@ -1,0 +1,25 @@
+/* styles.css */
+div {
+    color: white;
+}
+
+p {
+    color: red;
+}
+
+h3 {
+    color: chocolate;
+}
+
+.read,
+.unread {
+    color: white;
+}
+
+.read {
+    /*several unique declarations*/
+}
+
+.unread {
+    /*several unique declarations*/
+}

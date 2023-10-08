@@ -1,25 +1,44 @@
 /* styles.css */
-div {
-    color: white;
+* {
+    font-family: 'Courier New', Courier, monospace !important;
+    background-color: rgb(120, 120, 120);
+}
+.title {
+    color: black;
+    width: 500px;
+    background-color: transparent;
+    border-color: white;
+    border-radius: 5px;
+    border: 0.1rem solid;
+    padding: 0px;
+    margin: 0px;
+    margin-bottom: 5px;
+}
+.mainBox{
+    border-color: black;
+    border-radius: 5px;
+    border: 0.1rem solid;
+    width: 500px;
+    filter: drop-shadow(5px 5px);
+}
+.headBox {
+    padding-bottom: 15x;
 }
 
-p {
-    color: red;
+.header {
+    border-color: black;
+    border: 0.1rem solid;
+    width: 500px;
 }
 
-h3 {
-    color: chocolate;
+.recipeBox {
+    margin-bottom: 5px;
 }
 
-.read,
-.unread {
-    color: white;
-}
-
-.read {
-    /*several unique declarations*/
-}
-
-.unread {
-    /*several unique declarations*/
+.img {
+    border-color: black;
+    border-radius: 5px;
+    border: 0.1rem solid;
+    width: 500px;
+    margin-bottom: 5px;
 }

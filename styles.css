@@ -5,7 +5,7 @@
 }
 .title {
     color: black;
-    width: 500px;
+    width: 350px;
     background-color: transparent;
     border-color: white;
     border-radius: 5px;
@@ -18,7 +18,7 @@
     border-color: black;
     border-radius: 5px;
     border: 0.1rem solid;
-    width: 500px;
+    width: 350px;
     filter: drop-shadow(5px 5px);
 }
 .headBox {
@@ -28,7 +28,7 @@
 .header {
     border-color: black;
     border: 0.1rem solid;
-    width: 500px;
+    width: 350px;
 }
 
 .recipeBox {
@@ -39,7 +39,7 @@
     border-color: black;
     border-radius: 5px;
     border: 0.1rem solid;
-    width: 500px;
+    width: 350px;
     margin-bottom: 5px;
     
 }

@@ -1,45 +1,44 @@
 /* styles.css */
 * {
-    font-family: 'Courier New', Courier, monospace !important;
-    background-color: rgb(120, 120, 120);
+  font-family: "Courier New", Courier, monospace !important;
+  background-color: rgb(120, 120, 120);
 }
 .title {
-    color: black;
-    width: 350px;
-    background-color: transparent;
-    border-color: white;
-    border-radius: 5px;
-    border: 0.1rem solid;
-    padding: 0px;
-    margin: 0px;
-    margin-bottom: 5px;
+  color: black;
+  width: 350px;
+  background-color: transparent;
+  border-color: white;
+  border-radius: 5px;
+  border: 0.1rem solid;
+  padding: 0px;
+  margin: 0px;
+  margin-bottom: 5px;
 }
-.mainBox{
-    border-color: black;
-    border-radius: 5px;
-    border: 0.1rem solid;
-    width: 350px;
-    filter: drop-shadow(5px 5px);
+.mainBox {
+  border-color: black;
+  border-radius: 5px;
+  border: 0.1rem solid;
+  width: 350px;
+  filter: drop-shadow(5px 5px);
 }
 .headBox {
-    padding-bottom: 15x;
+  padding-bottom: 15px;
 }
 
 .header {
-    border-color: black;
-    border: 0.1rem solid;
-    width: 350px;
+  border-color: black;
+  border: 0.1rem solid;
+  width: 350px;
 }
 
 .recipeBox {
-    margin-bottom: 5px;
+  margin-bottom: 5px;
 }
 
 .img {
-    border-color: black;
-    border-radius: 5px;
-    border: 0.1rem solid;
-    width: 350px;
-    margin-bottom: 5px;
-    
+  border-color: black;
+  border-radius: 5px;
+  border: 0.1rem solid;
+  width: 350px;
+  margin-bottom: 5px;
 }
